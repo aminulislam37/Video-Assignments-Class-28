@@ -1,0 +1,226 @@
+@media (max-width: 1400px) {
+    .batton2 {
+        font-size: 17px;
+    }
+    .button-section .slsls {
+        font-size: 18px;
+    }
+    .button-section h1{
+        font-size: 47px;
+    }
+}
+@media (max-width: 1200px) {
+    .pricing-table-section h1 {
+        font-size: 38px !important;
+    }
+    .pricing-item ul li {
+        font-size: 20px;
+    }
+    .pricing-item ul li span {
+        font-size: 25px;
+    }
+    .testimonial-section h1 {
+        font-size: 35px;
+    }
+    .button-section h1{
+        font-size: 40px;
+    }
+    .batton2 {
+        font-size: 16px;
+    }
+    .button-section .slsls {
+        font-size: 14px;
+    }
+    .button-section .alala {
+        font-size: 14px;
+    }
+    .batton {
+        font-size: 15px;
+    }
+
+}
+
+@media (max-width: 992px) {
+    .btn.btn-outline-primary.btn-lg.font-weight-bold {
+        font-size: 15px !important;
+        margin-left: 8px !important;
+        padding: 9px 12px !important;
+    }
+    .navbar-nav {
+        margin-left: 12px !important;
+    }
+    .input-1{
+        margin-bottom: 20px;
+    }
+    .feacher-section .display-5 {
+        font-size: 40px;
+    }
+    .text-sec {
+        padding: 20px 15px;
+    }
+    .text-sec h4 {
+        margin-top: 20px;
+    }
+    .portfolio-section .lll {
+        font-size: 35px;
+    }
+    .slider-caption .display-5 {
+        font-size: 35px;
+    }
+    .slider-caption h4 {
+        font-size: 22px;
+    }
+    .pricing-table-section h1 {
+        font-size: 45px;
+        margin-bottom: 20px;
+    }
+    .pricing-table-section .lead {
+        font-size: 20px;
+    }
+    .pricing-item ul li {
+        font-size: 16px;
+    }
+    .pricing-item ul li span {
+        font-size: 22px;
+    }
+    .pricing-item {
+        margin-bottom: 30px;
+    }
+    .testimonial-section h1 {
+        font-size: 25px;
+    }
+    .lm10 {
+        font-size: 40px;
+    }
+    .lfwf {
+        font-size: 25px !important;
+    }
+    .contact-section h1 {
+        font-size: 35px;
+    }
+    .input-10{
+        margin-bottom: 20px;
+    }
+    .button-section h1{
+        font-size: 35px;
+    }
+    .button-section p{
+        font-size: 22px;
+    }
+    .lm30 {
+        font-size: 18px;
+    }
+    .button-section img {
+        width: 450px;
+    }
+}
+@media (max-width: 768px) {
+    .about-text-left h1{
+        font-size: 30px;
+    }
+    .about-text-left p{
+        font-size: 20px !important;
+    }
+    .feacher-section .display-5 {
+        font-size: 30px;
+    }
+    .feacher-section .tttt {
+        font-size: 20px;
+    } .text-sec h4 {
+        font-size: 16px;
+    }
+    .slider-caption h4 {
+        font-size: 16px;
+    }
+    .slider-caption .display-5 {
+        font-size: 27px;
+    }
+    .pricing-table-section h1 {
+        font-size: 35px;
+        margin-bottom: 20px;
+    }
+    .pricing-table-section .lead {
+        font-size: 18px;
+    }
+    .testimonial-section h1 {
+        font-size: 18px;
+    }
+    .testimonial-section .nmnm {
+        font-size: 17px;
+    }
+    .lm10 {
+        font-size: 35px;
+    }
+    .lfwf {
+        font-size: 22px !important;
+    }
+    .contact-section h1 {
+        font-size: 28px;
+    }
+    .button-section h1{
+        font-size: 30px;
+    }
+    .button-section p{
+        font-size: 17px;
+    }
+    .lm30 {
+        font-size: 16px;
+    }
+    .button-section img {
+        width: 400px;
+    }
+}
+@media (max-width: 576px) {
+    .about-section img{
+        width: 350px !important;
+    }
+    .images-0{
+        text-align: center;
+    }
+    .pricing-table-section h1 {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    .pricing-table-section .lead {
+        font-size: 16px;
+    }
+    .lm10 {
+        font-size: 28px;
+        text-align: center;
+    }
+    .lfwf {
+        font-size: 18px !important;
+    }
+    .about-item .card img {
+        width: 120px !important;
+    }
+    .contact-section h1 {
+        font-size: 25px;
+    }
+    .button-section h1{
+        font-size: 25px;
+    }
+    .button-section p{
+        font-size: 16px;
+    }
+    .button-section img {
+        width: 300px;
+    }
+    .about-text-left h1 {
+        font-size: 22px;
+        text-align: center;
+    }
+    .portfolio-section .lll {
+        font-size: 25px;
+    }
+    .pricing-item-button a {
+        font-size: 15px;
+        padding: 10px 15px;
+    }
+    .pricing-item {
+        height: 620px;
+    }
+    .altra{
+        height: 670px !important;
+    }
+}

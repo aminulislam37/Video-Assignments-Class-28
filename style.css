@@ -1,0 +1,322 @@
+body,h1,h2,h3,h4,h5,h6{
+    font-family: 'Work Sans', sans-serif;
+}
+img{
+    max-width: 100%;
+}
+.min-bg{
+    background-color: #f7f9ff;
+}
+.jon-header .navbar-brand{
+    font-size: 25px;
+    font-weight: 500;
+}
+.jon-header i{
+    display: inline-block;
+    background:#657be0;
+    color: #fff;
+    height: 45px;
+    width: 45px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 28px;
+    line-height: 45px;
+}
+.jon-menu .nav-link{
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+}
+.slider-section{
+    background: url(https://mobirise.com/extensions/appamp/assets/images/mbr-10.jpg) no-repeat center center;
+    padding: 150px 0;
+    position: relative;
+    z-index: 1;
+}
+.slider-section::after{
+    content: "";
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, .5);
+    z-index: -1;
+}
+.slider-caption h4{
+    font-size: 25px;
+}
+.slider-caption .display-5{
+    font-weight: 500;
+}
+.slider-section .form-control:focus{
+    border-color: #6278df;
+    box-shadow: 3px 3px 27px -3px #6278df;
+}
+.slider-section .form-control{
+    padding: 18px 20px;
+    border-color:#5ba533;
+}
+
+.slider-caption .btn{
+    font-size: 30px;
+    font-weight: 600;
+    padding: 10px 20px;
+    background: #5ba533;
+    border: 1px solid #5ba533;
+    transition: .4s;
+}
+.slider-caption .btn:hover{
+    background-color: white;
+    color: #6278df;
+    border-color: #6278df;
+    box-shadow: 3px 3px 27px -3px #6278df;
+}
+.counter-number-item .text-muted{
+    font-size: 20px;
+}
+.about-section{
+    background: #f7f9ff;
+}
+.about-text-left{
+    margin-top: 120px;
+}
+.about-text-left .lead {
+    font-size: 25px;
+    line-height: 2.7rem;
+}
+.feacher-section .tttt{
+    font-size: 27px;
+    font-weight: 300;
+}
+.feacher-section .display-5{
+    font-weight: 400;
+}
+.feacher-item{
+    height: 300px;
+    margin-top: 40px;
+    box-shadow: 2.5px 4.33px 30px rgba(64,87,191,0.1);
+}
+.img-sec{
+    width: 40%;
+    height: 300px;
+    overflow: hidden;
+    border-radius: 5px 0 0 5px;
+}
+.img-sec img{
+    height: 100%;
+    width: auto !important;
+    max-width: inherit;
+}
+.text-sec{
+    width: 60%;
+    padding: 20px;
+}
+.text-sec h4{
+    margin-bottom: 17px;
+    font-weight: 500;
+    font-size: 20px;
+}
+.text-sec .ddd{
+    font-size: 16px;
+    font-weight: 300;
+}
+.portfolio-section .lll{
+    font-size: 45px;
+    font-weight: 400;
+}
+.portfolio-item a{
+    position: relative;
+    display: block;
+}
+.portfolio-item a::after{
+    content: "";
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: rgba(98, 120, 223,.7);
+    opacity: 0;
+    visibility: hidden;
+    transition: .3s;
+}
+.portfolio-item:hover a::after{
+    opacity: 1;
+    visibility: visible;
+}
+.pricing-table-section h1{
+    font-size: 55px;
+    margin-bottom: 20px;
+}
+.pricing-table-section .lead{
+    font-size: 25px;
+}
+.pricing-item{
+    background: #fff;
+    padding: 50px;
+    box-shadow: 2.5px 4.33px 30px rgba(64,87,191,0.1);
+    border-radius: 5px;
+    height: 600px;
+}
+.pricing-item ul{
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+    margin-bottom: 45px;
+}
+.pricing-item ul li{
+    color: #767676;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    font-size: 25px;
+    font-weight: 300;
+}
+.pricing-item ul li span{
+    color: #657be0;
+    font-size: 30px;
+    font-weight: bolder;
+    display: inline-block;
+    width: 40px;
+}
+.pricing-item-button a{
+    color: #657be0;
+    border-color: #657be0;
+    border-width: 2px;
+    font-size: 23px;
+    padding: 12px 18px;
+    box-shadow: 2.5px 4.33px 30px rgba(64,87,191,0.2);
+}
+.btn-outline-info:hover {
+	color: #fff;
+	background-color: #0dcaf0;
+	border-color: #0dcaf0;
+}
+.testimonial-section h4{
+    font-size: 25px;
+}
+.testimonial-section h1{
+    margin-bottom: -30px;
+    font-weight: 400;
+}
+.testimonial-section .nmnm{
+    margin-top: -35px;
+}
+.testimonial-item span{
+    font-size: 70px;
+    color: #767676;
+    opacity: .1;
+    margin: 23px 0;
+    display: inline-block;
+}
+.author-info{
+    width: 220px;
+    margin: auto;
+}
+.author-info img{
+    width: 80px;
+}
+.user-details {
+	text-align: left;
+	position: relative;
+	top: 15px;
+	left: -20px;
+}
+.about-item{
+    margin-top: 80px;
+}
+.about-item .card img{
+    width: 90px;
+    height: auto;
+    margin-top: -50px;
+    margin-left: 15px;
+}
+.card-body a{
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.2) !important;
+}
+.card-body a:hover{
+    color: #ffffff;
+    background-color: #465052;
+    border-color: #465052;
+    box-shadow: 3px 3px 27px -3px #465052;
+    transition: .3s;
+    font-weight: 600;
+}
+.lm10{
+   font-size: 50px;
+}
+.contact-section h1{
+    font-weight: 400;
+}
+.contact-form-div .card{
+    box-shadow: 2.5px 4.33px 30px rgba(64,87,191,0.2);
+    padding: 40px;
+}
+input{
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.1);
+    color: #767676;
+    border: 1px solid #e4e4e4;
+    font-weight: 300;
+}
+input:focus{
+    border-color: #6278df !important;
+    box-shadow: 3px 3px 27px -3px #6278df !important;
+}
+textarea{
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.1);
+    color: #767676;
+    border: 1px solid #e4e4e4;
+    font-weight: 300;
+}
+textarea:focus{
+    border-color: #6278df !important;
+    box-shadow: 3px 3px 27px -3px #6278df !important;
+}
+form button:hover{
+    color: #6278df !important;
+    background-color: #fff !important;
+    transition: .4s;
+    border-color: #6278df !important;
+    box-shadow: 3px 3px 27px -3px #6278df !important;
+}
+.button-section a{
+    padding: 15px;
+}
+.button-section .slsls{
+    margin-left: 2px;
+    font-size: 21px;
+}
+.button-section .alala{
+    margin-left: 2px;
+    font-size: 20px;
+}
+.button-section img{
+    width: 550px;
+    height: auto;
+}
+.lm30{
+    font-size: 20px;
+    font-weight: 400;
+}
+.batton{
+    border: 1px solid #5ba533 !important;
+    color: #5ba533 !important;
+    font-weight: 500;
+}
+.batton:hover{
+    color: #ffffff !important;
+    background-color: #5ba533 !important;
+    border-color: #5ba533 !important;
+    box-shadow: 3px 3px 27px -3px #5ba533;
+    transition: .3s;
+}
+.batton2{
+    color: #fff !important;
+    background-color: #5ba533 !important;
+    box-shadow: 3px 3px 27px -3px #5ba533;
+}
+.batton2:hover{
+    background-color: #000000 !important;
+    border-color: #000000 !important;
+    color: #ffffff !important;
+    transition: .3s;
+}
